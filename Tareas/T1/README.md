@@ -6,7 +6,7 @@ Regresa la lista inversa, método no destructivo
 (defun B (lst)
 	(cond 
 		((atom lst) lst)
-		(t (append (B (cdr lst)) (list(B (car lst)))))
+		(t (append (B (cdr lst)) (list (B (car lst)))))
 		
 	)
 )
@@ -22,7 +22,7 @@ tengan elementos que no sean números.
 (setq x 0)
 (defun D(lst)
 	(cond 
-		((listp lst) (mapcar #'D lst)) 
+		((listp lst) (mapcar #'D lst) x) 
 		(t (incf x lst))
 	)
 )
