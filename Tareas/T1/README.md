@@ -14,8 +14,8 @@ Regresa la lista inversa, método no destructivo
 
 
 ### 2. Escribir una función en LISP que sume una lista a profundidad usando mapcar.
-Usamos variable auxiliar `x` y va sumando ahi. Regresa la lista sumada elemento a elemento
-y el valor de `x` es la suma de todos. Método no destructivo. No maneja listas que 
+Usamos variable auxiliar `x` y va sumando ahi. Regresa la suma de los elementos de la lista. 
+Método no destructivo. No maneja listas que 
 tengan elementos que no sean números.
 
 `(setq x 0)`
