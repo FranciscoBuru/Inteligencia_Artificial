@@ -18,8 +18,10 @@ Usamos variable auxiliar `x` y va sumando ahi. Regresa la lista sumada elemento 
 y el valor de `x` es la suma de todos. Método no destructivo. No maneja listas que 
 tengan elementos que no sean números.
 
+`(setq x 0)`
+
 ```
-(setq x 0)
+
 (defun D(lst)
 	(cond 
 		((listp lst) (mapcar #'D lst) x) 
@@ -27,6 +29,10 @@ tengan elementos que no sean números.
 	)
 )
 ```
+Para ejecutar, llenar lista en D:
+`(setq x 0)(D '( ))`
+
+#### Nota: No corre si la lista tiene valores no numéricos.
 
 ### 3. Escribir una función en LISP que sume una lista a profundidad sin usar mapcar.
 Usa la misma estructura que la 1. Suma a profundidad sin usar mapcar, no usa variables 
@@ -40,3 +46,4 @@ auxiliares de ambiente.
 	)
 )
 ```
+#### Nota: No corre si la lista tiene valores no numéricos
