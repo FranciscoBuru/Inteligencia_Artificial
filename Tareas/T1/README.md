@@ -6,7 +6,7 @@ Regresa la lista inversa, método no destructivo
 (defun B (lst)
 	(cond 
 		((atom lst) lst)
-		(t (append (B (cdr lst)) (B (car lst))))
+		(t (append (B (cdr lst)) (list(B (car lst)))))
 		
 	)
 )
