@@ -21,7 +21,6 @@ tengan elementos que no sean números.
 `(setq x 0)`
 
 ```
-
 (defun D(lst)
 	(cond 
 		((listp lst) (mapcar #'D lst) x) 
