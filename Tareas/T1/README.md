@@ -46,7 +46,14 @@ auxiliares de ambiente.
 )
 ```
 #### Nota: No corre si la lista tiene valores no numéricos
-
+### Guia ejecución:
+1. Abrir una terminal en el directorio del archivo
+2. Ejecutar: `(load "T1LISP.lisp" :print t)`
+3. Crear lista: `(setq lst '(1 2 3 (4 5 (6 7) 8) 9 (((10)))))`
+4. Correr funciones:
+`(B lst)`, 
+`(C lst)` y 
+`(setq x 0)(D lst)`
 ### Ejemplo ejecución:
 
 ![Imagen 1](./imagen.png)
