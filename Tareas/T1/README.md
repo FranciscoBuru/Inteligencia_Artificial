@@ -46,3 +46,7 @@ auxiliares de ambiente.
 )
 ```
 #### Nota: No corre si la lista tiene valores no numéricos
+
+### Ejemplo ejecución:
+
+![Imagen 1](./imagen.png)
