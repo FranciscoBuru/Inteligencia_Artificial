@@ -1,1 +1,1 @@
-# Interfáx para el puzzle8
+# Interfáz para el puzzle8
