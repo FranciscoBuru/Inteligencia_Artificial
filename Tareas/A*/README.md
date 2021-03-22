@@ -4,8 +4,8 @@ Para esta tarea primero implementé A* completo en Java, el código correspondie
 [JavaImplementation](https://github.com/FranciscoBuru/Inteligencia_Artificial/tree/main/Tareas/A*/JavaImplementation). 
 
 ## Para el proyecto general
-El código de CLISP se encuentra en la carpeta [lisp](https://github.com/FranciscoBuru/Inteligencia_Artificial/tree/main/Tareas/A*/lisp) y finalmente el código de la 
-interfáz está en la carpeta [GUI](https://github.com/FranciscoBuru/Inteligencia_Artificial/tree/main/Tareas/A*/GUI)
+El código de CLISP (CLISP 2.49) se encuentra en la carpeta [lisp](https://github.com/FranciscoBuru/Inteligencia_Artificial/tree/main/Tareas/A*/lisp) y finalmente el código de 
+la interfáz está en la carpeta [GUI](https://github.com/FranciscoBuru/Inteligencia_Artificial/tree/main/Tareas/A*/GUI)
 
 ## Instrucciones de ejecución.
 
