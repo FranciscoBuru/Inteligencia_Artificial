@@ -10,7 +10,7 @@ interfáz está en la carpeta [GUI](https://github.com/FranciscoBuru/Inteligenci
 ## Instrucciones de ejecución.
 
 #### Antes de empezar
-Crear un directorio local `path/to/project/`, sobre este path el proyecto correrá. 
+Crear un directorio local `path/to/project/`, sirve como directorio auxiliar para la ejecución.
 #### Interfáz gráfica
   Descargar los archivos en la carpeta [GUI](https://github.com/FranciscoBuru/Inteligencia_Artificial/tree/main/Tareas/A*/GUI) y correrlos usando JDK 1.8. La interfáz debe 
   verse como sigue. ![image](media/1.PNG)
