@@ -1,4 +1,4 @@
-# Tarea A*
+# Tarea A* Puzzle-8 Solver con lisp
 
 Para esta tarea primero implementé A* completo en Java, el código correspondiente se enccuentra en la carpeta 
 [JavaImplementation](https://github.com/FranciscoBuru/Inteligencia_Artificial/tree/main/Tareas/A*/JavaImplementation). 
